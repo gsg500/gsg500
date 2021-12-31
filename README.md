@@ -1,11 +1,9 @@
 ## Full Stack Developer
 
  <div>
-  <a href="https://github.com/gsg500">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gsg500&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
 </div>  
    <div>
-  <a href="https://github.com/gsg500">
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gsg500&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
